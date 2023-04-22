@@ -15,7 +15,6 @@ css = """
     font-size: 15px;
 }
 """
-page_icon="🍺"
 css_personalizado(css)
 css_personalizado(css)
 
