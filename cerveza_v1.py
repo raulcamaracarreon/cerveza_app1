@@ -17,7 +17,7 @@ css = """
 """
 css_personalizado(css)
 css_personalizado(css)
-st.set_page_config(page_title='Calculadora de tiempos de macerado y hervor de cerveza', page_icon=':beer:')
+
 st.title("Calculadora de tiempos de macerado y hervor de cerveza")
 
 st.header("Macerado del mosto")
