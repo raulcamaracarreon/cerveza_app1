@@ -15,7 +15,8 @@ css = """
     font-size: 15px;
 }
 """
-page_icon=":🔁:"
+page_icon="🍺"
+css_personalizado(css)
 css_personalizado(css)
 
 st.title("Calculadora de tiempos de macerado y hervor de cerveza")
